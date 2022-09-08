@@ -11,7 +11,7 @@ Once upon a time...
 
 There is a tree.
 
-# IMAGE: images/Treeclipart.png 
+# IMAGE: images/Tre.png 
 
 {hiTree:
     "Hello." 
